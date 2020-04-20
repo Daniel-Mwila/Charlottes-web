@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Charlottes Web Appointment project BIT1611685",
+    "slug": "charlotteswebbit.com",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/splash4.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "black"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Appointment making app for a custom jewelry company  specialized in making spider jewelry, this was an assignment in class. It uses a calendar and email addresses",
+    "githubUrl": "https://github.com/Daniel-Mwila/Daniel-Mwila.git"
+  }
+}
